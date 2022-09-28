@@ -20,7 +20,7 @@ It will install WireGuard (kernel module and tools) on the server, configure it,
 Run the script again to add or remove clients!
 
 
-## 第一次执行脚本安装出现这个报错  重启下服务器即可
+## 第一次执行脚本安装出现这个报错 提示wg-quick 启动失败  reboot重启下服务器即可
 ```bash
 WARNING: WireGuard does not seem to be running.
 You can check if WireGuard is running with: systemctl status wg-quick@wg0
