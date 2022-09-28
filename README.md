@@ -39,11 +39,12 @@ WireGuard 配置教程：使用 wg-gen-web 来管理 WireGuard 的配置 https:/
 Wireguard 全互联模式（full mesh）配置指南 https://icloudnative.io/posts/wireguard-full-mesh/
 
 
-如果遇到不明白的，可以参考这篇文章的注解：
+### 如果遇到不明白的，可以参考这篇文章的注解：
 
 WireGuard 教程：WireGuard 的搭建使用与配置详解  https://icloudnative.io/posts/wireguard-docs-practice/
 
-剩下这几篇文章是可选的，有兴趣就看看：
+
+### 剩下这几篇文章是可选的，有兴趣就看看：
 
 我为什么不鼓吹 WireGuard  https://icloudnative.io/posts/why-not-wireguard/
 
