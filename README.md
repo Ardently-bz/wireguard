@@ -15,17 +15,25 @@ Supported distributions:
 
 ## Usage
 
-   bash wireguard-install-ipv4.sh
+     bash wireguard-install-ipv4.sh
+     
     
   IPv4 or IPv6 public address:    输入服务公网ip地址或者域名
+  
   Public interface:   可回车直接使用默认
+  
   WireGuard interface name:   可回车直接使用默认  
+  
   Server's WireGuard IPv4:    vip虚拟机网段可以使用默认 只要不跟服务端 客户端网段冲突即可
+  
   Server's WireGuard port [1-65535]:  WireGuard 服务所使用的 UDP 端口
+  
   First DNS resolver to use for the clients:  DNS 根据自己情况来设置 我设置的是 233.5.5.5
+  
   Second DNS resolver to use for the clients (optional):  DNS 根据自己情况来设置 我设置的是 114.114.114.114  
 
   Client name: test    客户端文件的名称
+  
   Client's WireGuard IPv4:   客户端vpn 虚拟ip地址 可以直接默认使用
 
 
