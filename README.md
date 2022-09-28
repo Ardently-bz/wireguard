@@ -18,3 +18,10 @@ Supported distributions:
 It will install WireGuard (kernel module and tools) on the server, configure it, create a systemd service and a client configuration file.
 
 Run the script again to add or remove clients!
+
+
+## 第一次执行脚本安装出现这个报错  重启下服务器即可
+
+WARNING: WireGuard does not seem to be running.
+You can check if WireGuard is running with: systemctl status wg-quick@wg0
+If you get something like "Cannot find device wg0", please reboot!
