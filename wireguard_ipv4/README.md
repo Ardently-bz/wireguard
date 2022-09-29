@@ -2,8 +2,10 @@
 
 ### 此处唯一区别就是 脚本文件内的 这两行配置 （这是脚本生成客户端配置文件的部分内容）
 
-```sh
+```bash
+
 294  AllowedIPs = ${SERVER_NETWORK_SEGMENT}, ${CLIENT_WG_IPV4}/32
+
 295  #AllowedIPs = 0.0.0.0/0
 
 ```
